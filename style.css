@@ -1,7 +1,7 @@
 body
 {
   margin: 0;
-  background-image: url('bg1.jpg');
+  background-image: url('bg.jpg');
   background-size: 200vh 100vh;
   background-repeat: no-repeat;
   background-position: center top;
@@ -22,10 +22,7 @@ h1 .yellow{
 }
 .hero{
    align-items: center;
-  text-align: center
-  /*display: flex;
-  justify-content: flex-start;;*/
-  
+  text-align: center;
 }
 .hero h1{
 color: #fafafa;
